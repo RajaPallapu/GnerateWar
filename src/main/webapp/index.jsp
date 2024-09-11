@@ -9,6 +9,6 @@ String version=resource.getString("version");%>
 <h2>War file  is going to Deploy   into   amazon EC2  instance using github 
 "Successfully for the first project using Jenkins and tomcat mbp"
 </h2>
-<center><h3>Will start the Mbp concept hello my dear</h3></center>
+<center><h3>Deploymeny Completed Using Docker jenkins</h3></center>
   </body>
 </html>
